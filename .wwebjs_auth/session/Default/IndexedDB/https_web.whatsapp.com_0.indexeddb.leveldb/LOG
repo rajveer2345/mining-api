@@ -1,3 +1,20 @@
-2024/01/03-13:07:55.792 1064 Reusing MANIFEST C:\Users\aa\Desktop\SHIV\mining_api\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/01/03-13:07:55.792 1064 Recovering log #325
-2024/01/03-13:07:55.878 1064 Reusing old log C:\Users\aa\Desktop\SHIV\mining_api\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000325.log 
+2024/01/03-13:46:55.324 464c Reusing MANIFEST C:\Users\aa\Desktop\SHIV\mining-api\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/03-13:46:55.349 464c Recovering log #325
+2024/01/03-13:46:55.506 464c Reusing old log C:\Users\aa\Desktop\SHIV\mining-api\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000325.log 
+2024/01/03-13:47:20.582 1c3c Level-0 table #333: started
+2024/01/03-13:47:20.623 1c3c Level-0 table #333: 960571 bytes OK
+2024/01/03-13:47:20.624 1c3c Delete type=0 #325
+2024/01/03-13:47:20.754 3d24 Compacting 1@0 + 1@1 files
+2024/01/03-13:47:20.906 3d24 Generated table #334@0: 36141 keys, 913785 bytes
+2024/01/03-13:47:20.906 3d24 Compacted 1@0 + 1@1 files => 913785 bytes
+2024/01/03-13:47:20.908 3d24 compacted to: files[ 0 1 2 0 0 0 0 ]
+2024/01/03-13:47:20.908 3d24 Delete type=2 #328
+2024/01/03-13:47:20.908 3d24 Delete type=2 #333
+2024/01/03-13:47:21.144 3d24 Compacting 1@1 + 2@2 files
+2024/01/03-13:47:21.343 3d24 Generated table #335@1: 52311 keys, 2222863 bytes
+2024/01/03-13:47:21.417 3d24 Generated table #336@1: 29979 keys, 1752212 bytes
+2024/01/03-13:47:21.417 3d24 Compacted 1@1 + 2@2 files => 3975075 bytes
+2024/01/03-13:47:21.418 3d24 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/01/03-13:47:21.418 3d24 Delete type=2 #329
+2024/01/03-13:47:21.418 3d24 Delete type=2 #330
+2024/01/03-13:47:21.418 3d24 Delete type=2 #334

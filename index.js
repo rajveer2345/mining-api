@@ -10,7 +10,7 @@ const { Client, LocalAuth } = require('whatsapp-web.js');
 
 const app = express()
 
-cron.schedule('*/5 * * * *', () => {
+cron.schedule('0 * * * *', () => {
     console.log('running task ');
     client.sendMessage("917734839066@c.us", "your lease is about to expire");
     client.sendMessage("919588205114@c.us", "your lease is about to expire");
